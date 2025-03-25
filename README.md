@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel Kiriinya Muthuri!  
+# 👋 Hi, I'm Emmanuel Kiriinya!  
 🔹 **Data Science | Machine Learning | NLP | SQL | Data Visualization**  
 
 I am a passionate **Data Scientist and Analyst** with a background in **Economics and Statistics**.  
