@@ -23,4 +23,5 @@ My interests lie in **Natural Language Processing (NLP), Predictive Analytics, a
 <b><a href = Emmanuelkiriinya4229@gmail.com> 📧 Email</a></b>  
 <b><a href = https://www.linkedin.com/in/emmanuel-kiriinya-320695357> 💼 LinkedIn </a></b> </br> 
 <b><a href = https://www.kaggle.com/emmanuelkiriinya> 🐍 Kaggle </a></b>
+<b><a href = https://dev.to/emmanuel_kiriinya_416fc40> My Blog-post</a><b>
  
