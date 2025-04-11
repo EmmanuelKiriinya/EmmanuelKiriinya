@@ -17,7 +17,7 @@ My interests lie in **Natural Language Processing (NLP), Predictive Analytics, a
 ---
 
 ## 🚀 Projects  
-# COMING SOON
+- [Heart Disease Prediction with Machine Learning](https://github.com/EmmanuelKiriinya/Heart-Disease-ML/tree/main)
 
 ## 📫 Let's Connect!  
 <b><a href = Emmanuelkiriinya4229@gmail.com> 📧 Email</a></b>  
