@@ -1,29 +1,29 @@
 # 👋 Hi, I'm Emmanuel Kiriinya!  
-🔹 **Data Science | Machine Learning | NLP | SQL | Data Visualization**  
+🔹 **GIS | Data Analytics | SQL | Python | Power BI**  
 
-I am a passionate **Data Scientist and Analyst** with a background in **Economics and Statistics**.  
-I enjoy turning data into actionable insights using **Python, SQL, Power BI, and Machine Learning**.  
-My interests lie in **Natural Language Processing (NLP), Predictive Analytics, and AI-driven solutions**.  
+I’m a data and GIS analyst with a background in **Economics and Statistics**, and hands-on experience in **spatial data analysis, data validation, and interactive dashboards**.  
+I enjoy solving real-world problems using **Python, SQL, ArcGIS, Power BI**, and **geospatial tools** like **Google Earth** and **GeoPandas**. My work blends field-level mapping with backend analytics to support evidence-based decision-making.
 
 ---
 
 ## 🔧 Technologies & Skills  
-📊 **Data Science & Analytics:** Python (Pandas, NumPy, Scikit-learn), SQL, R  
-🤖 **Machine Learning & AI:** Supervised & Unsupervised Learning, NLP, LLMs (RAG, Prompt Engineering)  
-📈 **Data Visualization & BI:** Power BI, Tableau, Looker, Matplotlib, Seaborn  
-📂 **Big Data & Cloud:** Google Cloud, AWS (Basics)  
-🔄 **Version Control:** Git, GitHub  
+🗺️ **GIS & Mapping:** ArcGIS, Google Earth, GeoPandas, shapefiles, QGIS  
+🧹 **Data Validation & Cleaning:** Python (Pandas, NumPy), Excel (VBA, Power Query), SQL  
+📊 **Data Analytics & BI:** Power BI, Tableau, Matplotlib, Seaborn  
+🛠️ **Tooling & Automation:** SQL, Streamlit, Git, GitHub, REST APIs  
+☁️ **Cloud & Platforms:** AWS (S3, EC2), Google Cloud (basic)
 
 ---
 
-## 🚀 Projects  
-- [Heart Disease Prediction ML](https://github.com/EmmanuelKiriinya/Heart-Disease-ML/tree/main)
-- [International debt analysis using SQL](https://github.com/EmmanuelKiriinya/Phase_one_SQL_Assignment/tree/main)
-- [Aviation Accidents Analysis](https://github.com/EmmanuelKiriinya/Aviation-Analysis/tree/main)
+## 🚀 Featured Projects  
+- [🌍 Aviation Accidents Geo-Analysis](https://github.com/EmmanuelKiriinya/Aviation-Analysis/tree/main) — spatial and cause-based analysis using Python and GeoPandas  
+- [💰 International Debt Explorer](https://github.com/EmmanuelKiriinya/Phase_one_SQL_Assignment/tree/main) — SQL-driven macroeconomic data insights  
+- [🏡 Property Market Scraper](https://github.com/EmmanuelKiriinya/Web-Scraper-Property24) — data collection and cleaning for real estate trends
+
+---
 
 ## 📫 Let's Connect!  
-<b><a href = Emmanuelkiriinya4229@gmail.com> 📧 Email</a></b>  
-<b><a href = https://www.linkedin.com/in/emmanuel-kiriinya-320695357> 💼 LinkedIn </a></b> </br> 
-<b><a href = https://www.kaggle.com/emmanuelkiriinya> 🐍 Kaggle </a></b></br>
-<b><a href = https://dev.to/emmanuel_kiriinya_416fc40> My Blog-post</a><b>
- 
+📧 [Email](mailto:Emmanuelkiriinya4229@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-kiriinya-320695357)  
+📊 [Kaggle](https://www.kaggle.com/emmanuelkiriinya)  
+📝 [Blog](https://dev.to/emmanuel_kiriinya_416fc40)
