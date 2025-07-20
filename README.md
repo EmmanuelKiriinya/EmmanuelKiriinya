@@ -16,12 +16,38 @@ I enjoy solving real-world problems using **Python, SQL, ArcGIS, Power BI**, and
 ---
 
 ## 🚀 Featured Projects 
-- [FinanceBillGPT](https://github.com/EmmanuelKiriinya/rag_project) — AI model for querying about the Kenyan Finance Bill 2025.
-- [AidGPT] — AI model specialized in offering guidance on First Aid procedures. 
-- [🌍 Aviation Accidents Geo-Analysis](https://github.com/EmmanuelKiriinya/Aviation-Analysis/tree/main) — spatial and cause-based analysis using Python and GeoPandas  
-- [💰 International Debt Analysis](https://github.com/EmmanuelKiriinya/Phase_one_SQL_Assignment/tree/main) — SQL-driven macroeconomic data insights  
-- [🏡 Property Market Scraper](https://github.com/EmmanuelKiriinya/Web-Scraper-Property24) — data collection and cleaning for real estate trends
-- [Jumia Sales Analysis(Excel)](https://github.com/EmmanuelKiriinya/Jumia-Sales-Analysis-Excel-/tree/master) — Sales analysis to explore the impact of  discounts and rating on sales.
+
+<table>
+  <tr>
+    <td><a href="https://github.com/EmmanuelKiriinya/rag_project"><img src="https://img.shields.io/badge/💬 FinanceBillGPT-grey?style=for-the-badge" /></a></td>
+    <td>LLM-powered assistant for querying Kenya’s 2025 Finance Bill using RAG pipelines.</td>
+  </tr>
+  <tr>
+    <td><a href="#"><img src="https://img.shields.io/badge/🆘 AidGPT-grey?style=for-the-badge" /></a></td>
+    <td>AI chatbot designed to guide users through common First Aid scenarios. *(Coming soon)*</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EmmanuelKiriinya/Aviation-Analysis/tree/main"><img src="https://img.shields.io/badge/✈️ Aviation Accidents-grey?style=for-the-badge" /></a></td>
+    <td>Spatial and cause-based analysis using GeoPandas and visualization in Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EmmanuelKiriinya/Phase_one_SQL_Assignment/tree/main"><img src="https://img.shields.io/badge/🌍 International Debt-grey?style=for-the-badge" /></a></td>
+    <td>SQL-based macroeconomic data insights with World Bank debt records.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EmmanuelKiriinya/Web-Scraper-Property24"><img src="https://img.shields.io/badge/🏘️ Property Scraper-grey?style=for-the-badge" /></a></td>
+    <td>Web scraper for real estate listings from Property24 Kenya with data cleaning.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EmmanuelKiriinya/Jumia-Sales-Analysis-Excel-/tree/master"><img src="https://img.shields.io/badge/🛒 Jumia Sales-grey?style=for-the-badge" /></a></td>
+    <td>Excel dashboard exploring the effect of discounts and ratings on e-commerce sales.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/EmmanuelKiriinya/Health-Analysis-PowerBI-/tree/master"><img src="https://img.shields.io/badge/📉 Health Analysis-grey?style=for-the-badge" /></a></td>
+    <td>Power BI report analyzing BMI trends by generation using DAX and Power Query.</td>
+  </tr>
+</table>
+
 
 
 ---
