@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Emmanuel Kiriinya!  
-🔹 **GIS | Data Analytics | SQL | Python | Power BI**  
+🔹 **Data Scientist | Data Analyst**  
 
 I’m a data and GIS analyst with a background in **Economics and Statistics**, and hands-on experience in **spatial data analysis, data validation, and interactive dashboards**.  
 I enjoy solving real-world problems using **Python, SQL, ArcGIS, Power BI**, and **geospatial tools** like **Google Earth** and **GeoPandas**. My work blends field-level mapping with backend analytics to support evidence-based decision-making.
